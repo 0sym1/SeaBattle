@@ -19,14 +19,14 @@ The project was done by [Lê Tuấn Ngọc](https://github.com/0sym1), in the co
 ![Alt text](<Activity Diagram.png>)
 
 ## Demo video:
-(https://www.youtube.com/watch?v=7b16_43dNBQ&t=104s)
+https://www.youtube.com/watch?v=7b16_43dNBQ&t=104s
 
 ## Dema image:
-![Alt text](<Screenshot (99).png>)
-![Alt text](<Screenshot (100).png>)
-![Alt text](<Screenshot (102).png>)
-![Alt text](<Screenshot (103).png>)
-![Alt text](<Screenshot (105).png>)
+![Alt text](Demo1.png) 
+![Alt text](Demo2.png) 
+![Alt text](Demo3.png) 
+![Alt text](Demo4.png) 
+![Alt text](Demo5.png)
 
 ## Usage
 
